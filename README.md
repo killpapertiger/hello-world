@@ -36,6 +36,13 @@ Mongotron  —  一个使用Electron和Angular JS构建的MongoDB GUI。
 
 WebTorrent  —  浏览器中Streaming torrent客户端。WebTorrent is a streaming torrent client for node.js and the browser.
 
+
+传送门：https://shopify.github.io/draggable/
+
+
+
+Draggable 是一个简单易用的模块化拖放库。 它提供了出色的拖放功能，快速的 DOM 重新排序，干净的 API 和可访问的标记。 Draggable 附带额外的模块，可以添加更多的功能，如排序，交换和其他实用程序。
+
 Video.js  —   一个开源的HTML5 & Flash视频播放器
 Video.js是一个从头开始构建的HTML5视频播放器。 它支持HTML5和Flash视频，以及YouTube和Vimeo（通过插件）。 它支持在台式机和移动设备上播放视频。 这个项目于2010年年中开始，现在用户使用超过400,000个。
 
